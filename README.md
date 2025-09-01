@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🚀 ¡Hola! Soy Mauricio Herrera 👋
+#  ¡Hola! Soy Mauricio Herrera 👋
 
 
 ### 💻 Especializado en Backend | 🎨 Apasionado por el Frontend Moderno
