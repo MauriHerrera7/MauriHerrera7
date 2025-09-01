@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Sobre Mí
+## 👀 Sobre Mí
 
 ¡Hola! Soy **Mauricio Herrera**, un **Full Stack Developer** con especialización en **Backend**, pero también me encanta crear aplicaciones modernas y visualmente atractivas. Me apasiona construir soluciones robustas y escalables, siempre buscando la mejor experiencia de usuario.
 
