@@ -84,15 +84,15 @@
 
 ## 📊 GitHub Stats
 
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?MauriHerrera7&show_icons=true&theme=radical)
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauriHerrera7&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?MauriHerrera7&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=MauriHerrera7&theme=radical)
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriHerrera7&layout=compact&theme=radical)
 
 </div>
 
