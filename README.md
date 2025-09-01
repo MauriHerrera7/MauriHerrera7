@@ -76,26 +76,6 @@
 ### ⚽ **Fútbol** - El deporte que me enseñó sobre trabajo en equipo y perseverancia
 ### 💻 **Tecnología** - Mi pasión por crear soluciones que impacten positivamente
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauriHerrera7&show_icons=true&theme=radical)
-
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriHerrera7&layout=compact&theme=radical)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🤝 ¡Conectemos!
 
