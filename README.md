@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://tu-imagen-banner.com/banner.png](https://res.cloudinary.com/dry6dvzoj/image/upload/v1756702297/github-header-banner_j8lezw.png" alt="Mauricio Herrera Banner" />
-</div>
-
-
-<div align="center">
-
-#  ¡Hola! Soy Mauricio Herrera 👋
+  
+<img src="https://res.cloudinary.com/dry6dvzoj/image/upload/v1756702297/github-header-banner_j8lezw.png" alt="Mauricio Herrera Banner" />
+  
 
 
 ### 💻 Especializado en Backend | 🎨 Apasionado por el Frontend Moderno
