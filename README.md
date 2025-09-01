@@ -86,9 +86,6 @@
 
 ![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MauriHerrera7&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=MauriHerrera7&theme=radical)
 
 ## 💻 Most Used Languages
 
@@ -102,8 +99,8 @@
 
 ## 🤝 ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mauricio-herrera-7b744b274)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauriherrera457@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
 ### 💡 *"El código es poesía, y cada función es un verso que cuenta una historia"*
@@ -111,9 +108,9 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MauriHerrera7&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-## 🎯 Mis Pasiones
+
 
