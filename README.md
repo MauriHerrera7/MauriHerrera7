@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://tu-imagen-banner.com/banner.png](https://res.cloudinary.com/dry6dvzoj/image/upload/v1756702297/github-header-banner_j8lezw.png" alt="Mauricio Herrera Banner" />
+</div>
+
 
 <div align="center">
 
@@ -86,11 +90,6 @@
 ### 💡 *"El código es poesía, y cada función es un verso que cuenta una historia"*
 
 
----
-
-<img src="https://komarev.com/ghpvc/?username=MauriHerrera7&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
-</div>
 
 
 
