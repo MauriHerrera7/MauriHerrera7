@@ -14,27 +14,6 @@
 
 ---
 
-<div align="center">
-
-## 🎮 Mini-Juego: Pac-Man en tu Perfil
-
-¿Un dev que programa y encima tiene un Pac-Man jugable?  
-Sí, ese soy yo 😎
-
-👉 **Hacé clic para jugar:**
-
-<br>
-
-<a href="https://MauriHerrera7.github.io/pacman-game/">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/pacman-game/main/pacman-preview.gif" width="350" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### 🛠️ **Mi Stack Tecnológico**
 
 </div>
