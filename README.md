@@ -1,8 +1,6 @@
 <div align="center">
   
 <img src="https://res.cloudinary.com/dry6dvzoj/image/upload/v1756702297/github-header-banner_j8lezw.png" alt="Mauricio Herrera Banner" />
-  
-
 
 ### 💻 Especializado en Backend | 🎨 Apasionado por el Frontend Moderno
 
@@ -13,6 +11,27 @@
 ## 👀 Sobre Mí
 
 ¡Hola! Soy **Mauricio Herrera**, un **Full Stack Developer** con especialización en **Backend**, pero también me encanta crear aplicaciones modernas y visualmente atractivas. Me apasiona construir soluciones robustas y escalables, siempre buscando la mejor experiencia de usuario.
+
+---
+
+<div align="center">
+
+## 🎮 Mini-Juego: Pac-Man en tu Perfil
+
+¿Un dev que programa y encima tiene un Pac-Man jugable?  
+Sí, ese soy yo 😎
+
+👉 **Hacé clic para jugar:**
+
+<br>
+
+<a href="https://MauriHerrera7.github.io/pacman-game/">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/pacman-game/main/pacman-preview.gif" width="350" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -72,10 +91,10 @@
 
 <div align="center">
 
-
-### ⚽ **Fútbol** - El deporte que me enseñó sobre trabajo en equipo y perseverancia
+### ⚽ **Fútbol** - El deporte que me enseñó sobre trabajo en equipo y perseverancia  
 ### 💻 **Tecnología** - Mi pasión por crear soluciones que impacten positivamente
 
+---
 
 ## 🤝 ¡Conectemos!
 
@@ -85,7 +104,6 @@
 
 ### 💡 *"El código es poesía, y cada función es un verso que cuenta una historia"*
 
-
-
+</div>
 
 
