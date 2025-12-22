@@ -70,8 +70,11 @@
 
 <div align="center">
 
-### ⚽ **Fútbol** - El deporte que me enseñó sobre trabajo en equipo y perseverancia  
-### 💻 **Tecnología** - Mi pasión por crear soluciones que impacten positivamente
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
 
 ---
 
